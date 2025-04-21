@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinov
-- 👀 I’m interested in competitive programming and cyber security
+- 👀 I’m interested in competitive programming and web development 
 - 🌱 I’m currently learning competitive programming
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me abhinov2144@gmail.com
